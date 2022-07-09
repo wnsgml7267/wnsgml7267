@@ -7,6 +7,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
 
 
+<a href="https://dlwns7267.tistory.com/449?category=1051856"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
 <!--
 **wnsgml7267/wnsgml7267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
