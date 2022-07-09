@@ -4,7 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
+
 
 <!--
 **wnsgml7267/wnsgml7267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
