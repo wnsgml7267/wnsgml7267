@@ -9,6 +9,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
 
+&nbsp;
+
+# Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=Spring-study)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
