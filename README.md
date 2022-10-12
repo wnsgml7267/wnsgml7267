@@ -11,7 +11,7 @@
 # Extra Pins
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=Spring-study&theme=dark)](https://github.com/wnsgml7267/Spring-study)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=notebook_world&theme=dark)](https://github.com/wnsgml7267/notebook_world)
 
 
 
