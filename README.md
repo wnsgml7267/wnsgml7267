@@ -1,6 +1,6 @@
 # Hi! 👋 
 
-<a href="https://dlwns7267.tistory.com/449?category=1051856"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)
 
