@@ -1,6 +1,6 @@
 <h2 align="center">⋆｡ﾟ✶° contact ⋆｡ﾟ✶°</h2>
 
-<p align="center"><a href="mailto:dlwns7267"><img src="https://img.shields.io/badge/Naver-64BC4B?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwns7267"/></a><a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<p align="center"><a href="mailto:dlwns7267@naver.com"><img src="https://img.shields.io/badge/Naver-64BC4B?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwns7267@naver.com"/></a><a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
   
 <h2></h2>
 
