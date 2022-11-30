@@ -1,6 +1,8 @@
-# Hi! 👋 
+<h2 align="center">⋆｡ﾟ✶° contact ⋆｡ﾟ✶°</h2>
 
-<a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<p align="center"><a href="mailto:dlwns7267"><img src="https://img.shields.io/badge/Naver-64BC4B?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwns7267"/></a><a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  
+<h2></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)
 
