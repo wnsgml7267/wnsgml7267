@@ -21,6 +21,8 @@
 
 &nbsp;
 
+<h2 align="center">⋆｡ﾟ✶° Algorithm ⋆｡ﾟ✶°</h2>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
 
@@ -38,6 +40,8 @@
 - 여행지 추천 웹 서비스(nodejs, mongoDB, express, KakaoMapAPI) https://github.com/wnsgml7267/oneclick_trip
 
 &nbsp;
+
+<h2 align="center">⋆｡ﾟ✶° Stats ⋆｡ﾟ✶°</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
