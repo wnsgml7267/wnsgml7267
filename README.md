@@ -5,13 +5,6 @@
 
 <p align="center"><a href="mailto:dlwns7267@naver.com"><img src="https://img.shields.io/badge/dlwns7267-64BC4B?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwns7267@naver.com"/></a><a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)]
--->
-
-<!--(https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)-->
-
 &nbsp;
 
 <h2 align="center">⋆｡ﾟ✶° Activity ⋆｡ﾟ✶°</h2>
@@ -30,6 +23,25 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
+
+&nbsp;
+
+<h2 align="center">⋆｡ﾟ✶° Project ⋆｡ﾟ✶°</h2>
+
+
+- 노트북 추천 웹 서비스(python, django, sqlite) https://github.com/wnsgml7267/notebook_world
+ 
+ 
+- 개발자 커뮤니티(php, mysql, apache) https://github.com/wnsgml7267/devcomm
+
+
+- 여행지 추천 웹 서비스(nodejs, mongoDB, express, KakaoMapAPI) https://github.com/wnsgml7267/oneclick_trip
+
+&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 # Extra Pins (~ing)
 
@@ -53,22 +65,6 @@
 
 
 <!--Ramendoenda-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
