@@ -1,23 +1,32 @@
-<h2 align="center">⋆｡ﾟ✶° contact ⋆｡ﾟ✶°</h2>
 
 <p align="center"><a href="mailto:dlwns7267@naver.com"><img src="https://img.shields.io/badge/dlwns7267-64BC4B?style=flat-square&logo=Naver&logoColor=white&link=mailto:dlwns7267@naver.com"/></a><a href="https://dlwns7267.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  
+
 <h2></h2>
+<h2 align="center">⋆｡ﾟ✶° Contact ⋆｡ﾟ✶°</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgml7267&langs_count=10&layout=compact&theme=dark&hide=css,html)]
+-->
 
+<!--(https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=wnsgml7267&show_icons=true&theme=dark)-->
+
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
 
 &nbsp;
 
+<h2 align="center">⋆｡ﾟ✶° Activity ⋆｡ﾟ✶°</h2>
+
+<!--
 # Extra Pins (~ing)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=nhn-toast-notification-service-custom-connector&theme=dark)](https://github.com/wnsgml7267/nhn-toast-notification-service-custom-connector)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=Spring-study&theme=dark)](https://github.com/wnsgml7267/Spring-study)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=notebook_world&theme=dark)](https://github.com/wnsgml7267/notebook_world)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=python-algorithm-snippet&theme=dark)](https://github.com/wnsgml7267/python-algorithm-snippet)
-<!--
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wnsgml7267&repo=num-baseball-game&theme=dark)](https://github.com/wnsgml7267/num-baseball-game)
 -->
 
