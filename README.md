@@ -15,16 +15,9 @@
 |4차 산업혁명 선도를 위한 Creative Item & Level UP 창업캠프|2019.10|피부 개선 스캔 AI기반 케어 화장품 추천 마스크(최우수상)|
 |2019 창의융합캠프, Design Thinking bootcamp|2019.11|쌔싹 스마트 지갑(우수상)|
 |부산스러운 해커톤 빅데이터를 이용한 지속가능발전목표(SDGs) 해결 방안|2019.11|키오스크 교육, 원데이 클래스, ‘하모니’집밥(최우수상)|
-|코로나 취약계층을 돕는 ‘코로나 헬퍼’ 웹 서비스 개발 활동 및 참여|2020-02-28 ~ 2020-08-29|코로나 취약계층에게 따스한 손길을 건네는 웹 프로젝트(프론트엔드)|
+|코로나 취약계층을 돕는 ‘코로나 헬퍼’ 웹 서비스 개발 활동 및 참여|2020-02-28 ~ 2020-08-29|코로나 취약계층에게 따스한 손길을 건네는 웹 서비스|
 |오픈소스 컨트리뷰션 아카데미|2022.07 ~ 2022.10|[NHNCloud Power Platform Connector](https://github.com/wnsgml7267/nhn-toast-notification-service-custom-connector)|
 |삼성 SW 청년 아카데미(SSAFY) 9기|2023-01-04 ~ |Java 전공반|
-
-&nbsp;
-
-<h2 align="center">⋆｡ﾟ✶° Algorithm ⋆｡ﾟ✶°</h2>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
 
 &nbsp;
 
@@ -38,6 +31,13 @@
 
 
 - [여행지 추천 웹 서비스(nodejs, mongoDB, express, KakaoMapAPI)](https://github.com/wnsgml7267/oneclick_trip)
+
+&nbsp;
+
+<h2 align="center">⋆｡ﾟ✶° Algorithm ⋆｡ﾟ✶°</h2>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7267)](https://solved.ac/wnsgml7267) <img src="http://mazandi.herokuapp.com/api?handle=wnsgml7267&theme=cold"/>
 
 &nbsp;
 
