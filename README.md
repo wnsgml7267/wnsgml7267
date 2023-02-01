@@ -7,6 +7,15 @@
 
 &nbsp;
 
+ <h2 align="center">⋆｡ﾟ✶° ~ing ⋆｡ﾟ✶°</h2>
+
+- [X] algorithm (python, java) 
+- [X] blog posting 
+- [X] learning java
+- [X] SSAFY 9th (java)
+- [ ] Computer Science
+&nbsp;
+
 <h2 align="center">⋆｡ﾟ✶° Activity ⋆｡ﾟ✶°</h2>
 
 |활동|기간|활동 내용|
@@ -58,13 +67,13 @@
 -->
 
 
-
+<!--
 <div align=right>	
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgml7267&count_bg=%236AABEF&title_bg=%231B86F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-
+-->
 
 
 
