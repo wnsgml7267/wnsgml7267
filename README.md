@@ -11,6 +11,7 @@
 
 - [X] algorithm (python, java) 
 - [X] [snippet (python)](https://github.com/wnsgml7267/python-algorithm-snippet)
+- [ ] snippet (java)
 - [X] [blog posting](https://dlwns7267.tistory.com/) 
 - [X] learning java
 - [X] SSAFY 9th (java)
