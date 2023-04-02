@@ -15,7 +15,8 @@
 - [X] [blog posting](https://dlwns7267.tistory.com/) 
 - [X] learning java
 - [X] SSAFY 9th (java)
-- [X] Computer Science
+- [X] [algorithm study](https://github.com/wnsgml7267/AlgorithmStudy/tree/wnsgml7267)
+<!--- [ ] Computer Science-->
 
 &nbsp;
 
