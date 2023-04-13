@@ -9,8 +9,8 @@
 
  <h2 align="center">⋆｡ﾟ✶° ~ing ⋆｡ﾟ✶°</h2>
 
-- [X] algorithm (python, java) 
-- [X] [snippet (python)](https://github.com/wnsgml7267/python-algorithm-snippet)
+- [X] [algorithm](https://github.com/wnsgml7267/cote-practice) (python, java) 
+- [X] [snippet](https://github.com/wnsgml7267/python-algorithm-snippet) (python)
 - [ ] snippet (java)
 - [X] [blog posting](https://dlwns7267.tistory.com/) 
 - [X] learning java
