@@ -40,7 +40,7 @@
 
 <h2 align="center">⋆｡ﾟ✶° Project ⋆｡ﾟ✶°</h2>
 
-- [아파트 정보 매매 웹 서비스(Java, Spring Boot, Vue.js, Mysql)](https://github.com/wnsgml7267/help_me_home)
+- [아파트 매매 정보 웹 서비스(Java, Spring Boot, Vue.js, Mysql)](https://github.com/wnsgml7267/help_me_home)
 
 
 - [노트북 추천 웹 서비스(python, django, sqlite)](https://github.com/wnsgml7267/notebook_world)
