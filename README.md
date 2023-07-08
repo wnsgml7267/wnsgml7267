@@ -24,8 +24,10 @@
 
 |활동|기간|활동 내용|
 |------|---|---|
-|[오픈소스 컨트리뷰션 아카데미](https://dlwns7267.tistory.com/category/Open%20source%20Contribution%20Academy)|2022.07 ~ 2022.10|[NHNCloud Power Platform Connector](https://github.com/wnsgml7267/nhn-toast-notification-service-custom-connector)|
-|삼성 SW 청년 아카데미(SSAFY) 9기|2023-01 ~ 2023-05 |Java 전공반|
+|[2022 오픈소스 컨트리뷰션 아카데미](https://dlwns7267.tistory.com/category/Open%20source%20Contribution%20Academy)|2022.07 ~ 2022.10|[NHNCloud Power Platform Connector](https://github.com/wnsgml7267/nhn-toast-notification-service-custom-connector)|
+|삼성 SW 청년 아카데미(SSAFY) 9기|2023.01 ~ 2023.05 |Java 전공반|
+|[2023 오픈소스 컨트리뷰션 아카데미](https://dlwns7267.tistory.com/category/Open%20source%20Contribution%20Academy)|2023.07 ~ 2023.10|[azure-functions-openapi-extension](https://github.com/wnsgml7267/azure-functions-openapi-extension)|
+
 <!--
 |창업동기유발프로그램 START-UP 바르게 성장하기|2019.07|인테리어 클라우드(2위)|
 |4차 산업혁명 선도를 위한 Creative Item & Level UP 창업캠프|2019.10|피부 개선 스캔 AI기반 케어 화장품 추천 마스크(최우수상)|
